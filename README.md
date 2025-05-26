@@ -47,3 +47,4 @@ The project can evolve in the following ways:
 
 Acknowledgments:  
 This project would leverage open-source libraries like TensorFlow, PyTorch, and OpenCV for AI development. Inspiration comes from platforms like HubSpot (analytics for marketers), Canva (design tools), and BuzzSumo (content insights). Social media APIs from platforms like Instagram, TikTok, and YouTube would provide the foundational data for training and analysis.
+## Summary Power of AI dor Influencers 
